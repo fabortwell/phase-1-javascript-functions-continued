@@ -15,3 +15,7 @@ function mondayWork () {
    return 'This Monday, I will work from home.';
 }
 mondayWork ();
+
+function wrapAdjective () {
+
+}
